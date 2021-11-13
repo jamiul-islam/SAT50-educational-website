@@ -1,0 +1,90 @@
+[
+  {
+    "key": "BLACKPINK0",
+    "id": 0,
+    "name": "brilliant",
+    "time": "8.6 hours",
+    "access": "premium",
+    "price": 50,
+    "image": "https://thesat50.pythonanywhere.com/static/img/brilliant.jpg",
+    "its_title": "Learn to think",
+    "its_paragraph": "Brilliant replaces lecture videos with hands-on, interactive lessons. It’s a better (and more fun) way to learn. Build confidence with hands-on learning. You'll get to see concepts visually, interact with key ideas, and solve challenging problems that get you to really think. All of our courses are crafted by award-winning teachers, researchers, and professionals from MIT, Caltech, Duke, Microsoft, Google, and more."
+  },
+  {
+    "key": "BLACKPINK1",
+    "id": 1,
+    "name": "college-essay",
+    "time": "3 weeks",
+    "access": "premium",
+    "price": 250,
+    "image": "https://thesat50.pythonanywhere.com/static/img/college-essay.jpg",
+    "its_title": "Get Inspired!",
+    "its_paragraph": "our go-to resource for practical, step-by-step guides on writing beautiful college essays and putting together an awesome college application I've been helping students tell their stories for more than 10 years, and listening with unconditional positive regard is at the heart of my coaching philosophy. My team and I work privately with a small number of students each year, and we’d love to work with you."
+  },
+  {
+    "key": "BLACKPINK2",
+    "id": 2,
+    "name": "CS50AP",
+    "time": "8 weeks",
+    "access": "premium",
+    "price": 199,
+    "image": "https://thesat50.pythonanywhere.com/static/img/CS50.jpg",
+    "its_title": "Hello, world!",
+    "its_paragraph": "An entry-level course for students with no prior background, taught by David J. Malan, CS50 AP teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development); Java or Swift (for mobile app development); or Lua (for game development). Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project."
+  },
+  {
+    "key": "BLACKPINK3",
+    "id": 3,
+    "name": "College Prep Blog",
+    "time": "1 year",
+    "access": "free",
+    "price": 0,
+    "image": "https://thesat50.pythonanywhere.com/static/img/kiwi-college-prep.jpg",
+    "its_title": "Online Test Prep, Done Right",
+    "its_paragraph": "PrepScholar offers affordable online prep courses for the SAT, ACT, GRE, and GMAT. It is the only online program scientifically designed to train students in exactly the areas that match their ability."
+  },
+  {
+    "key": "BLACKPINK4",
+    "id": 4,
+    "name": "Rec. Letter",
+    "time": "2 hours",
+    "access": "free",
+    "price": 0,
+    "image": "https://thesat50.pythonanywhere.com/static/img/recom-letter.jpg",
+    "its_title": "4 Amazing Recommendation Letter Samples for Students",
+    "its_paragraph": "If you're a student, examples of great letters of recommendation can help you understand how to get strong letters yourself from your teachers. If you're a teacher, the examples in this guide will inspire you to support your students strongly as they apply to college. Keep reading for four excellent letters from teachers that will get anyone into college, along with expert analysis on why they're so strong."
+  },
+  {
+    "key": "BLACKPINK5",
+    "id": 5,
+    "name": "Scaler Learning",
+    "time": "3 weeks",
+    "access": "Premium",
+    "price": 30,
+    "image": "https://thesat50.pythonanywhere.com/static/img/scalar-learning.jpg",
+    "its_title": "The Scalar Learning Website",
+    "its_paragraph": "The Scalar Learning YouTube channel is designed to give you all the tools and resources necessary to optimize and enhance the learning process. Created for parents, students, and educators alike, this channel is dedicated to providing viewers with a well rounded and thorough perspective on all things related to education. Join Huzefa as he delves into a host of education related topics ranging from (1) test preparation, (2) online learning tools, (3) real world applications of math, and (4) student perspectives. If you are ready to take your education to the next level, tune into the Scalar Learning YouTube channel!"
+  },
+  {
+    "key": "BLACKPINK6",
+    "id": 6,
+    "name": "SuperTutor TV",
+    "time": "6 months",
+    "access": "premium",
+    "price": 150,
+    "image": "https://thesat50.pythonanywhere.com/static/img/supertutor-tv.jpg",
+    "its_title": "Online Test Prep Courses Made Awesome",
+    "its_paragraph": "With over 20 million YouTube views and 200K+ YouTube subscribers, we make video prep more awesome. Our online test prep courses for the ACT® and SAT® engage and inspire the future achievers of tomorrow. Created by Stanford educated ACT®/SAT® perfect scorer and private tutor Brooke Hanson, our course offers a more personal feel than most online courses, with both a face and white board on screen, just like Brooke shares in her tutoring sessions."
+  },
+  {
+    "key": "BLACKPINK7",
+    "id": 7,
+    "name": "TOEFL",
+    "time": "2 months",
+    "access": "premium",
+    "price": 550,
+    "image": "https://thesat50.pythonanywhere.com/static/img/toefl-resources.jpg",
+    "its_title": "BEAT THE TOEFL® TEST",
+    "its_paragraph": "We understand the TOEFL test. Textbooks sit on shelves for years and become out of date.  But we can help. We strive to keep our material as current as humanly possible.  Here’s how we can help you to beat the TOEFL test. We’ve got guides to help you master both TOEFL essay questions.  They are updated monthly with new templates, sample questions and sample answers."
+  }
+]
